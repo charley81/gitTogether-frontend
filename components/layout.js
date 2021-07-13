@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from './header'
 import Footer from './footer'
-import styles from '../styles/layout.module.scss'
+import styles from '@/styles/layout.module.scss'
 
 export default function Layout({ keywords, description, page, children }) {
   return (
