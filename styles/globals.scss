@@ -8,7 +8,7 @@
   --color-secondary: #9daaf2;
   --color-bright: #f4db7d;
   --transition: all 0.3s ease;
-  --max-width: 900px;
+  --max-width: 960px;
 }
 
 * {
@@ -22,10 +22,16 @@ body {
   line-height: 1.8;
   font-size: 16px;
   background-color: var(--color-light);
+  color: var(--color-dark);
 }
 
 a {
   text-decoration: none;
+  color: var(--color-dark);
+}
+
+li {
+  list-style-type: none;
 }
 
 p {
