@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "fun day sunday",
+      "slug": "fun-day-sunday",
+      "familyName": "smith",
+      "houseNumber": "23",
+      "date": "august 01, 2021",
+      "time": "1:00pm",
+      "description": "Single-origin coffee godard semiotics messenger bag, live-edge occupy biodiesel affogato irony vaporware. Vice food truck artisan dreamcatcher adaptogen neutra brunch. Tote bag salvia edison bulb literally swag tumeric. Migas knausgaard bicycle rights squid pickled, typewriter godard meggings food truck live-edge. Flannel copper mug pug hashtag chambray humblebrag whatever godard bushwick lyft.",
+      "image": "/images/sample-images/fun.jpg"
+    },
+    {
+      "id": "2",
+      "title": "taco tuesday",
+      "slug": "taco-tuesday",
+      "familyName": "jones",
+      "houseNumber": "11",
+      "date": "august 12, 2021",
+      "time": "6:00pm",
+      "description": "Single-origin coffee godard semiotics messenger bag, live-edge occupy biodiesel affogato irony vaporware. Vice food truck artisan dreamcatcher adaptogen neutra brunch. Tote bag salvia edison bulb literally swag tumeric. Migas knausgaard bicycle rights squid pickled, typewriter godard meggings food truck live-edge. Flannel copper mug pug hashtag chambray humblebrag whatever godard bushwick lyft.",
+      "image": "/images/sample-images/taco.jpg"
+    },
+    {
+      "id": "3",
+      "title": "hike and bike",
+      "slug": "hike-and-bike",
+      "familyName": "anderson",
+      "houseNumber": "18",
+      "date": "september 01, 2021",
+      "time": "11:00pm",
+      "description": "Single-origin coffee godard semiotics messenger bag, live-edge occupy biodiesel affogato irony vaporware. Vice food truck artisan dreamcatcher adaptogen neutra brunch. Tote bag salvia edison bulb literally swag tumeric. Migas knausgaard bicycle rights squid pickled, typewriter godard meggings food truck live-edge. Flannel copper mug pug hashtag chambray humblebrag whatever godard bushwick lyft.",
+      "image": "/images/sample-images/hike.jpg"
+    },
+    {
+      "id": "4",
+      "title": "movie night",
+      "slug": "movie-night",
+      "familyName": "smithfield",
+      "houseNumber": "33",
+      "date": "september 21, 2021",
+      "time": "7:00pm",
+      "description": "Single-origin coffee godard semiotics messenger bag, live-edge occupy biodiesel affogato irony vaporware. Vice food truck artisan dreamcatcher adaptogen neutra brunch. Tote bag salvia edison bulb literally swag tumeric. Migas knausgaard bicycle rights squid pickled, typewriter godard meggings food truck live-edge. Flannel copper mug pug hashtag chambray humblebrag whatever godard bushwick lyft.",
+      "image": "/images/sample-images/movie.jpg"
+    }
+  ]
+}
