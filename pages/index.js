@@ -1,11 +1,16 @@
 import Layout from '@/components/layout'
+import EventItem from '@/components/event-item'
 import { API_URL } from '@/config/index'
+import styles from '@/styles/index.module.scss'
 
 export default function Home({ events }) {
-  console.log(events)
   return (
     <Layout page="Home">
-      <h1>Upcoming gitTogethers</h1>
+      <h3 className={styles.title}>Upcoming gitTogethers</h3>
+      {events.length === 0 && <h3>No events to show</h3>}
+      {events.map((evt) => {
+        return <EventItem key={evt.id} evt={evt} />
+      })}
     </Layout>
   )
 }

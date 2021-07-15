@@ -1,0 +1,30 @@
+.event {
+  text-align: center;
+  margin: 2rem 0;
+  width: 100%;
+  box-shadow: var(--box-shadow);
+  padding: 1rem;
+  border-radius: var(--border-radius);
+}
+
+.img {
+  border-radius: var(--border-radius);
+  flex: 1;
+}
+
+.info {
+  flex: 2;
+  margin-bottom: 0.5rem;
+}
+
+@media (min-width: 550px) {
+  .event {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .info {
+    margin-bottom: 0;
+  }
+}
