@@ -1,5 +1,12 @@
 .footer {
   text-align: center;
+  background: var(--color-dark);
+  color: var(--color-light);
+  padding: 1rem;
+
+  p {
+    margin: 0;
+  }
 }
 
 .link {
